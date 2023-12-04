@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lisa
 
 <!--
 **weirdwir3d/weirdwir3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software Engineering student. I like languages and in my free time I like to exercise and work on some side projects
+
+- 🔭 Currently working on a Pokedex app for iOS and another iOS app for Tex tracer, and on the website of the student association s.v. QUEER!
+- 🌱 I’m currently learning SwiftUI and C++
+- 📫 How to reach me: @weirdwired on Discord
