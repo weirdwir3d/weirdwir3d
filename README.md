@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am a Software Engineering student. I like languages and in my free time I like to exercise and work on some side projects
 
-- 🔭 Currently working on a Pokedex app for iOS and another iOS app for Tex tracer, and on the website of the student association s.v. QUEER!
+- 🔭 Currently working on an iOS app for Tex Tracer and on the website of the student association s.v. QUEER!
 - 🌱 I’m currently learning SwiftUI and C++
 - 📫 How to reach me: @weirdwired on Discord
