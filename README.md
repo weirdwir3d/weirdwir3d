@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineering student. I like languages and in my free time I like to exercise and work on some side projects
+I am a Software Engineer. I like languages, music and fitness.
 
 - 🔭 Currently working on an iOS app for Tex Tracer and on the website of the student association s.v. QUEER!
-- 🌱 I’m currently learning SwiftUI and C++
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me: @weirdwired on Discord
