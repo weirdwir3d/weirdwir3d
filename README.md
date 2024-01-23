@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer. I like languages, music and fitness.
+I am a Software Engineer and UX design enthusiast. I like to learn about psychology, languages, music and fitness.
 
 - 🔭 Currently working on an iOS app for Tex Tracer and on the website of the student association s.v. QUEER!
 - 🌱 I’m currently learning SwiftUI
